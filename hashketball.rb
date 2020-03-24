@@ -1,3 +1,1 @@
-def game_hash
-  # Write your code here!
-end
+# Write your code here!
