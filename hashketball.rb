@@ -1,5 +1,5 @@
 def game_hash 
-  bball = {:home => {}, :away => {}}
+  bball = {:home => {team_name: "Brooklyn Nets", colors: [], players: [], :away => {team_name}}
 
   
   bball
